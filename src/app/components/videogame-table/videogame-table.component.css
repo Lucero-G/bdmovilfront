@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier Prime', Courier, monospace; /* Aplica Courier Prime */
+}
+
+
+.table-purple {
+    --bs-table-color: white !important;
+    --bs-table-bg:#7952b3 !important;
+}
+  
